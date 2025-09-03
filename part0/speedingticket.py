@@ -12,3 +12,4 @@ elif difference <= -10:
     print("50")
 else:
     print("0")
+print("bye")
